@@ -1,0 +1,3 @@
+.idea
+venv
+custom_history/*/*.csv
